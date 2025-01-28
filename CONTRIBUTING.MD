@@ -126,4 +126,3 @@ Thank you for considering contributing to our project! To maintain a smooth work
 ```bash
 git fetch upstream
 git merge upstream/main
-
