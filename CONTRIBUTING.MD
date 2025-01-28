@@ -3,6 +3,15 @@
 Thank you for considering contributing to our project! To maintain a smooth workflow, please follow the guidelines below.
 
 ---
+## Table of Contents
+1. [Getting Started](#getting-started)
+2. [How to Contribute](#how-to-contribute)
+3. [Submitting a Pull Request](#submitting-a-pull-request)
+4. [Resolving Merge Conflicts](#resolving-merge-conflicts)
+5. [Coding Guidelines](#coding-guidelines)
+6. [Helpful Commands](#helpful-commands)
+
+---
 
 ## Getting Started
 
