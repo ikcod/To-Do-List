@@ -1,8 +1,8 @@
-# main.py
-# Entry point for the Python project
+from tasks import add_task, list_tasks, mark_completed, delete_task
 
 def main():
-    print("Welcome to the Python project!")
+    print("Collaborative To-Do List")
+    # Future: Add CLI logic here
 
-if __name__ == "__main__":
+if __name__ == "_main_":
     main()
