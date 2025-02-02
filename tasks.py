@@ -1,18 +1,19 @@
 # tasks.py
 import json
+tasks_list = []
 
 def add_task(task):
-    # Placeholder function
-    pass
+    tasks_list.append(task)
+
 
 def list_tasks():
-    # Placeholder function
-    pass
+    return tasks_list
+
 
 def mark_completed(task_id):
     # Placeholder function
     pass
 
 def delete_task(task_id):
-    # Placeholder function
-    pass
+    # Placholder function
+    pass

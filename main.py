@@ -11,6 +11,12 @@ def main():
         print(f'Task "{task}" added successfully!')
     else:
         print("Task cannot be empty.")
+    
+    # List all tasks after adding
+    print("\nCurrent Tasks:")
+    tasks = list_tasks()
+    for idx, t in enumerate(tasks, start=1):
+        print(f'{idx}. {t}')
 
 if __name__ == "__main__":
     main()
